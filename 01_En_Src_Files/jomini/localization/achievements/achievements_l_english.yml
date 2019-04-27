@@ -1,0 +1,11 @@
+﻿l_english:
+ ACHIEVEMENT_UNLOCKED: "Achievement unlocked!"
+ ACHIEVEMENT_LOCKED: "Achievement locked"
+ ACHIEVEMENT_NOT_POSSIBLE: "Achievement not possible in current campaign"
+ ACHIEVEMENTS: "Achievements"
+ ACHIEVEMENT_FILTER_POSSIBLE: "Show possible"
+ ACHIEVEMENT_FILTER_NOT_POSSIBLE: "Show not possible"
+ ACHIEVEMENT_FILTER_UNLOCKED:1 "Show Gained Achievements"
+ ACHIEVEMENT_FILTER_LOCKED:1 "Show Remaining Achievements"
+ ACHIEVEMENT_GROUP_TITLE: "[Group.GetName] - [Group.CalcNumberOfUnlockedAchievements] / [Group.GetNumberOfAchievements]"
+ ACHIEVEMENT_GROUP_TOOLTIP: "#V [Group.CalcNumberOfUnlockedAchievements]#! achievement(s) unlocked out of #V [Group.GetNumberOfAchievements]#! in group [Group.GetName]"
